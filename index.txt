@@ -1,0 +1,13 @@
+ Volume in drive D is NewDisk
+ Volume Serial Number is 244B-9E51
+
+ Directory of D:\Java Projects
+
+07/13/2018  04:31 PM    <DIR>          .
+07/13/2018  04:31 PM    <DIR>          ..
+07/13/2018  04:06 PM    <DIR>          github_repo
+07/13/2018  04:25 PM               416 Hello.class
+07/13/2018  11:58 AM               123 Hello.java
+07/13/2018  04:31 PM                 0 index.txt
+               3 File(s)            539 bytes
+               3 Dir(s)  413,190,713,344 bytes free
